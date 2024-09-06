@@ -3,7 +3,13 @@
 
 # Hi there, I'm Anandu K C! 👋
 
-I'm a **DevOps Engineer** with expertise in **AWS**, **CI/CD Pipelines**, **Containerization**, and **Infrastructure as Code**. My passion lies in automating cloud infrastructure, improving deployment workflows, and solving challenges in scalable cloud environments.
+Hai it’s me Anandu✨
+
+I am a passionate and detail-oriented DevOps engineer with a strong foundation in IT and cloud technologies. My journey into DevOps is fueled by my curiosity to automate processes, enhance system reliability, and bridge the gap between development and operations. 
+
+I have hands-on experience with cloud platforms, particularly AWS, where I’ve gained skills in CI/CD pipelines, Jenkins, Git and GitHub, Containerization using Docker, Kubernetes, Terraform that uses Infrastructure as Code (IaC), Ansible, Python, Bash Scripting.
+
+Passionate about learning and implementing best practices in DevOps to contribute to team success and continuous improvement. With a background in mechanical engineering, I bring a unique perspective to problem-solving, blending analytical thinking with technical knowledge.
 
 ---
 
