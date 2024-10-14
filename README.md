@@ -13,7 +13,7 @@ Passionate about learning and implementing best practices in DevOps to contribut
 
 ---
 
-## 🛠️ **My Technical Toolbox**
+## 🛠️ **My Technical ToolBox**
 
 ### ☁️ **Cloud Platforms**
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
